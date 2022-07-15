@@ -8,7 +8,7 @@
 ## 安装
 
 ```shell
-$ composer require icecho/easyip -vvv
+$ composer require thisliu/easyip -vvv
 ```
 
 ## 介绍
